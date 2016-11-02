@@ -1,0 +1,29 @@
+{
+  "name": "tmr",
+  "version": "0.0.1",
+  "description": "a very simple countdown clock",
+  "main": "tmr.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yetzt/node-tmr.git"
+  },
+  "keywords": [
+    "time",
+    "timer",
+    "clock",
+    "watch",
+		"countdown",
+		"countup",
+		"stopwatch",
+		"timing",
+		"counting",
+		"count",
+		"tmr"
+  ],
+  "author": "yetzt <node@yetzt.me>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/yetzt/node-tmr/issues"
+  },
+  "homepage": "https://github.com/yetzt/node-tmr#readme"
+}
